@@ -1,0 +1,63 @@
+/* Samuel Nguyen-Phok et Tom Martin */
+
+header, #content, footer, #menu ul li {
+	border: 1px solid black;
+	margin: 1%;
+}
+
+#retour-top {
+	background-color: black;
+	position: fixed;
+	right: 10%;
+	bottom: 10%;
+	font-size: 400%;
+}
+
+#retour-top a:link ,#retour-top a:visited {
+	color: white;	
+	text-decoration: none;
+}
+
+#retour-top a:hover {
+	color: grey;
+}
+
+#menu ul , #plan ul{
+	list-style: none;
+}
+
+#logo, h1 {
+	float: left;
+}
+
+#menu ul li {
+	display: inline-block;
+}
+
+footer {	
+	width: 90%;
+	margin: auto;
+}
+
+.contact {
+	float: left;
+	display: inline-block;
+	margin-left: 1%;
+	margin-bottom: 1%;
+}
+
+#plan {
+	margin-left: 30%;
+}
+
+#dates p {
+	display: inline;
+	margin: 1%;
+}
+
+#copyright {
+	float: right;
+	position: relative;
+	bottom: 40px;
+	right: 5px;
+}

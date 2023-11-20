@@ -5,6 +5,7 @@ tp3 en interface web
 ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/c71b431c-ce5b-45e9-8a97-2f65d8c41f63)
 2. clone ton projet (telecharger son projet sur son ordinateur) **a faire pour chaque nouvel ordi
 ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/cf371545-2f2c-4fcf-a4a4-a66c65d12d06)
+3. dans cmd ou git bash ou git cmd commande "git clone **lien**" (remplacer lien avec le lien coper avec etape 2)
 ## pour enregistrer du code dans son projet (forker et cloner)
 1. commande "git fetch" (pour voir les mises à jour du projet original)
 2. commande "git pull" (pour telecharger et modifier le projet forker et cloner *le projet non originel*)

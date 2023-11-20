@@ -4,18 +4,18 @@ tp3 en interface web
 1. a partir de n'importe quel page, cliquer sur la photo de profile en haut a droite
 2. cliquer sur settings
 3. scroller en bas et regarder a gauche pour "developer settings"
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/bc34642a-b8b1-4585-814d-4268afe7767a)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/bc34642a-b8b1-4585-814d-4268afe7767a)
 4. cliquer sur personnal access token
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/cd76fbb3-dff9-4991-9ce4-5eacdfe96601)
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/69dfbecb-aa77-4637-b9ba-246a4cd85a23)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/cd76fbb3-dff9-4991-9ce4-5eacdfe96601)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/69dfbecb-aa77-4637-b9ba-246a4cd85a23)
 5. cliquer sur generate new token
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/34df7c75-dcd7-4be8-8e38-668b692b3919)
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/492cc385-ecfb-4f9c-9ea1-11673e5eb5b3)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/34df7c75-dcd7-4be8-8e38-668b692b3919)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/492cc385-ecfb-4f9c-9ea1-11673e5eb5b3)
 6. rentrer les informations
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/52be371a-93d5-4c4b-ad78-0b6dd760b06d)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/52be371a-93d5-4c4b-ad78-0b6dd760b06d)
 7. cliquer sur generate token
 8. **important** bien garder quelque part sur son ordi la clee generer et copier la clee
-![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/3ce3b898-1961-4c02-9132-f0b2c04469af)
+  ![image](https://github.com/WildSource/TP3-interface-web/assets/62212250/3ce3b898-1961-4c02-9132-f0b2c04469af)
 
 ## avant de soumettre du code (a faire une fois)
 1. fork le projet (faire une copie du projet original pour modifier sa propre copie isoler et eviter de faire des collisions.
